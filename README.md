@@ -23,7 +23,7 @@ Hệ thống nhận diện bệnh lá cây theo thời gian thực bằng mô h�
 ## 🖼 Giao diện
 
 
-![Giao diện](./giaodien.png)
+![Giao diện](./giaodien.jpg)
 
 ---
 
