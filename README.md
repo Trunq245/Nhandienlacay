@@ -19,6 +19,12 @@ Hệ thống nhận diện bệnh lá cây theo thời gian thực bằng mô h�
 - Camera máy tính (webcam)
 - Trình duyệt hiện đại (Chrome, Firefox, Edge...)
 
+---  
+## 🖼 Giao diện
+
+
+![Giao diện](images/giaodien.png)
+
 ---
 
 ## 🔧 Cài đặt
